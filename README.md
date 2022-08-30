@@ -1,0 +1,2 @@
+# CollegBazaar
+Made wih JSP, Servlet ..........          It's a marketplace for the reselling of used products. For example, a huge number of students pass out every year in college and they are replaced by freshers. Pass-outs leave behind their stuff like bicycles, notes, etc. which could be extremely useful for new students. Such a platform could be used to trade general items too so that students can develop better connectivity and relations among themselves.
